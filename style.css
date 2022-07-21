@@ -36,7 +36,7 @@
     padding: 14px 20px;
     text-decoration: none;
     text-align: center;
-    text-height: 10px;
+    
   }
   .introduction {
     
@@ -50,7 +50,6 @@
     flex-direction: column;
     position: absolute;
     line-height: 2em;
-    text-height: 5px;
     text-align: center;
     align-items:center;
     justify-content:center;
@@ -92,7 +91,6 @@ section{
         display: flex;
         flex-direction: column;
         line-height: 2em;
-        text-height: 10px;
         align-items: center;
         justify-content: center;
         color: #fff;
