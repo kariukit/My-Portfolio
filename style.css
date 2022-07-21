@@ -167,7 +167,7 @@ font-weight: 500px;
   font-weight: lighter; 
   width: 20%;
   height: 100%;
-  align-items: center;
+  align-items:flex-start;
   justify-content: right;
   padding: 10px;
   margin: 100px;
@@ -264,10 +264,6 @@ font-weight: 500px;
     background-color: #02144e;
     color: #fff;
   }
-.row{
-  border-left: 5px solid #9b3018;
-  
-}
 @media screen and (max-width: 992px) {
   .card {
     width: 50%;
