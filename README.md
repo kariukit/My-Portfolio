@@ -20,10 +20,14 @@ THEN the employer am presented with a responsive layout that adapts to my viewpo
 
 The mock-up website was to resemble the images below
 
-![Screenshot_20220713-211959_Chrome - Copy](https://user-images.githubusercontent.com/108309963/180332706-2f5e99a1-e1c8-4818-93de-7742daa33ad2.jpg)
+![Screenshot_20220713-212036_Chrome](https://user-images.githubusercontent.com/108309963/180333193-e7f85cb9-440d-4aaf-91f1-aea1971225e8.jpg)
 
-![Screenshot_20220713-211959_Chrome](https://user-images.githubusercontent.com/108309963/180332733-e3822896-03c7-468f-bb24-fa2af93b7cd9.jpg)
+![Screenshot_20220713-211959_Chrome](https://user-images.githubusercontent.com/108309963/180333206-c344f4d2-cc6c-4cea-aa72-ca2944007114.jpg)
 
-![Screenshot_20220713-212054_Chrome](https://user-images.githubusercontent.com/108309963/180332746-7461dca3-24a3-41a2-bb11-cbd74566215e.jpg)
+![Screenshot_20220713-211941_Chrome](https://user-images.githubusercontent.com/108309963/180333213-e93718f1-cb24-4d39-8e7a-2b53d6ca39eb.jpg)
 
-You can view the webpage i managed to create using this link: https://kariukit.github.io/Portfolio/
+
+
+
+
+#You can view the webpage i managed to create using this link: https://kariukit.github.io/Portfolio/
