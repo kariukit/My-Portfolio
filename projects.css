@@ -14,15 +14,14 @@
   header {
     padding: 40px;
     text-align: center;
-    background: #b12286;
+    background: #0c817b;
     color: #fff;
   }
-  
   
   footer {
     padding: 20px;
     text-align: center;
-    background: #b12286;
+    background: #0c817b;
     color: #fff;
     margin-top: auto;
   }
@@ -38,6 +37,14 @@
     font-size: 150%;
   }
   
+  .project-slideshow {
+    display: flex;
+    align-items: center;
+  }
+  
+  .project-image {
+    width: 100%;
+  }
   
   .project-details {
     margin-left: 3%;
@@ -50,7 +57,9 @@
       flex-direction: column;
     }
   
-    
+    .project-slideshow button {
+      display: none;
+    }
   
     .project-details {
       margin-left: 0;
