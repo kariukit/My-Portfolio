@@ -14,7 +14,7 @@
   header {
     padding: 40px;
     text-align: center;
-    background: #7aa516;
+    background: #b12286;
     color: #fff;
   }
   
@@ -22,37 +22,37 @@
   footer {
     padding: 20px;
     text-align: center;
-    background: #7aa516;
+    background: #b12286;
     color: #fff;
     margin-top: auto;
   }
   
-  .skills {
+  .project {
     display: flex;
     align-items: flex-start;
     width: 90%;
     margin: 1% auto;
   }
   
-  .skills button {
+  .project button {
     font-size: 150%;
   }
   
   
-  .skills-details {
+  .project-details {
     margin-left: 3%;
     flex: 0 0 60%;
   }
   
   @media screen and (max-width: 768px) {
     main,
-    .skills {
+    .project {
       flex-direction: column;
     }
   
     
   
-    .skills-details {
+    .project-details {
       margin-left: 0;
     }
   }
