@@ -264,22 +264,3 @@ font-weight: 500px;
     background-color: #02144e;
     color: #fff;
   }
-@media screen and (max-width: 992px) {
-  .card {
-    width: 50%;
-  }
- 
-  header {
-    background: #772014;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .card {
-    width: 100%;
-  }
-
-  header {
-    background: #8ac4ff;
-  }
-}
